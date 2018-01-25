@@ -1,0 +1,6 @@
+Following:
+http://jmcglone.com/guides/github-pages/
+
+https://github.com/pages-themes/minimal/blob/master/_layouts/default.html
+
+Also note that there are "collections" within Jekyll that we could use for protocols.
