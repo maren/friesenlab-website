@@ -19,10 +19,11 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
+          <p class="view"><a href="https://maren.github.io/friesenlab-website/news/">News <small>{{ github_name }}</small></a></p>
           <p class="view"><a href="https://maren.github.io/friesenlab-website/projects/">Projects <small>{{ github_name }}</small></a></p>
           <p class="view"><a href="https://maren.github.io/friesenlab-website/people/">People <small>{{ github_name }}</small></a></p>
-          <p class="view"><a href="{{ something }}">Protocols <small>{{ github_name }}</small></a></p>        
-          <p class="view"><a href="{{ something }}">Contact Us <small>{{ github_name }}</small></a></p>        
+          <p class="view"><a href="https://maren.github.io/friesenlab-website/protocols/">Protocols <small>{{ github_name }}</small></a></p>        
+          <p class="view"><a href="https://maren.github.io/friesenlab-website/contact/">Contact Us <small>{{ github_name }}</small></a></p>        
           <p class="view"><a href="https://maren.github.io/friesenlab-website/join/">Join Us <small>{{ github_name }}</small></a></p>        
         
         {% endif %}
