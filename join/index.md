@@ -1,0 +1,3 @@
+We are always seeking motivated, talented scientists to join our lab. We are particularly interested in recruiting future leaders in the field of beneficial plant-microbe interactions, and in people interested in integrating theoretical, computational, and empirical approaches.
+
+If you are interested in exploring opportunities with us, please send your CV and a brief (~1pg) statement of interest to Maren. We receive a lot of inquiries and do not respond to blanket applications, but sometimes emails fall through the cracks so if you are sincerely interested in our work and do not hear back within a few weeks please contact me again. 
