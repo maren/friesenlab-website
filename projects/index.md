@@ -1,8 +1,8 @@
 Active Projects in the Friesen Lab
 
-=header=
+# header
 
--list1
--list2
+- list1
+- list2
 
 test
