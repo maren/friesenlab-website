@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+collections:
+- protocols
+
+collections_dir: my_collections
