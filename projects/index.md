@@ -3,10 +3,13 @@ Active Projects in the Friesen Lab
 
 # An Inordinate Fondness for Clover
 
+What role do microbial mutualists play in the coexistence of their hosts? This project combines field observations with manipulative experiments, sequencing, and transcriptomic analysis to understand how diverse Trifolium communities are maintained at Bodega Bay, CA.
+
 ## Collaborators:
 Sharon Strauss (UC Davis)
 
 ## Publications:
+
 
 
 # How do Mutualisms Evolve During Range Expansion?
