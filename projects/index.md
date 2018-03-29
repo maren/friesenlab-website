@@ -28,6 +28,22 @@ Sarah Evans (MSU), Lisa Tiemann (MSU), Jim Cole (MSU)
 
 ## Publications:
 
-#
+# SynSym: Synthetic Symbioses
+
+Can we engineer novel interactions between cereals and nitrogen-fixing bacteria? This project combines synthetic biology approaches with microbial physiology and experimental evolution.
+
+## Collaborators:
+John Peters (WSU), Jean-Michel Ane (UW Madison), Michael Udvardi (Noble Institute), Chris Voigt (MIT)
+
+## Publications:
+
+# Oxygen-Tolerant Nitrogenase
+
+Unfortunately, there is not evidence that the oxygen-tolerant nitrogenase enzyme exists.
+
+## Collaborators:
+James Murray (Imperial College London), Bill Rutherford (ICL), Martin Buck (ICL)
+
+## Publications
 
 Completed Projects [link to new page]
