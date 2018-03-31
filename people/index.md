@@ -1,11 +1,13 @@
 # Principle Investigator
 ## Maren L. Friesen
-About Maren...
+> About Maren...
 
 [Maren's Publications](https://scholar.google.com/citations?hl=en&user=fi2A6KUAAAAJ)
 
 # Current Lab Members
 ## Chandra Jack
+
+
 [Chandra's Publications](https://scholar.google.com/citations?hl=en&user=fi2A6KUAAAAJ)
 
 ## Emily McLachlan
@@ -20,13 +22,20 @@ About Maren...
 # Soon-to-be Alumni
 
 ## Jeff Norman
-* [Jeff's Publications](https://scholar.google.com/citations?user=aoYnrpgAAAAJ&hl=en)
+
+[Jeff's Publications](https://scholar.google.com/citations?user=aoYnrpgAAAAJ&hl=en)
+
 ## Alan Bowsher
-* [Alan's Publications]()
+
+[Alan's Publications]()
+
 ## Aaron Garoutte
-* [Aaron's Publications]()
+
+[Aaron's Publications]()
+
 ## Colleen Friel
-* 
+
+
 ## Eleanor Siler
 ## Cody Bekerring
 
@@ -40,7 +49,8 @@ About Maren...
 # Alumni
 ## Michelle Afkahmi
 Now faculty at University of Miami!
-* [Michelle's Publications]()
+
+[Michelle's Publications]()
 
 ## Prateek Shetty
 ## Roxanne Bantay
