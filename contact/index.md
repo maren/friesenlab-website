@@ -12,10 +12,10 @@ Lab: Vogel Plant Bioscience 318
 # Mailing address
 
 ## Snail Mail
-###Plant Pathology
+### Plant Pathology
 PO Box 646430, Pullman WA 99164
 
-###Crop and Soil Science
+### Crop and Soil Science
 PO Box 646420, Pullman WA 99164
 
 ## Packages
