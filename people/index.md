@@ -1,5 +1,5 @@
 # Principle Investigator
-## Maren L. Friesen
+## [Maren L. Friesen](https://maren.github.io/friesenlab-website/people/maren)
 > I am fascinated by how smaller things interact with larger things and how unrelated organisms cooperate. 
 > In addition to mentoring a lab of amazing people, I also teach in the graduate-level curricula at WSU.
 > I tweet responsibly during seminars & conferences: [@symbiomics](https://twitter.com/symbiomics)
