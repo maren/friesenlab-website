@@ -10,7 +10,7 @@
 ## Chandra Jack
 
 
-[Chandra's Publications](https://scholar.google.com/citations?hl=en&user=fi2A6KUAAAAJ)
+[Chandra's Publications](https://scholar.google.com/citations?user=XfIzXKMAAAAJ&hl=en)
 
 ## Emily McLachlan
 
@@ -25,15 +25,15 @@
 
 ## Jeff Norman
 
-[Jeff's Publications](https://scholar.google.com/citations?user=aoYnrpgAAAAJ&hl=en)
+[Jeff's Publications]
 
 ## Alan Bowsher
 
-[Alan's Publications]()
+[Alan's Publications]
 
 ## Aaron Garoutte
 
-[Aaron's Publications]()
+[Aaron's Publications]
 
 ## Colleen Friel
 
