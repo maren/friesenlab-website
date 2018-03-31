@@ -1,6 +1,8 @@
 # Principle Investigator
 ## Maren L. Friesen
-> About Maren...
+> I am fascinated by how smaller things interact with larger things and how unrelated organisms cooperate. 
+
+Tweet responsibly: [@symbiomics](https://twitter.com/symbiomics)
 
 [Maren's Publications](https://scholar.google.com/citations?hl=en&user=fi2A6KUAAAAJ)
 
