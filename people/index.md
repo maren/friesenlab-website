@@ -14,7 +14,8 @@
 
 ## Emily McLachlan
 
-## Thomas Haynes
+## Kale the Quick (Thomas Everett Haynes)
+Kale is the hardware and software developer for the lab. Creating devices to facilitate the streamlining of lab work, and managing the more time consuming aspects of software or web design.
 
 ## Undergraduates
 ### Thomas Conway
