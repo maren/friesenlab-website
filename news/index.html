@@ -14,6 +14,14 @@ title: Friesen Lab News
 
   <!-- figure out how to have twitter / paper feeds here? -->
 
+<h1>{{ page.title }}</h1>
+	<ul class="posts">
+
+	  {% for post in site.posts %}
+	    <li><span>{{ 2018-04-09 | date_to_string }}</span> » <a href="https://surca.wsu.edu/past-surca/awards-2018/" title="Cassidy Peru won a Gray award and $200 at SURCA! ">{{ post.title }}</a></li>
+	  {% endfor %}
+</ul>
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/colleen_friel?ref_src=twsrc%5Etfw">@colleen_friel</a> won 2nd place and $200 at the WSU Plant Science Symposium!! So proud! <a href="https://t.co/RFeuBw0YlG">pic.twitter.com/RFeuBw0YlG</a></p>&mdash; ML Friesen (@symbiomics) <a href="https://twitter.com/symbiomics/status/979899586591449088?ref_src=twsrc%5Etfw">March 31, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
